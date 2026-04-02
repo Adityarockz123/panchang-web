@@ -1,0 +1,2 @@
+# panchang-web
+Vedic Panchang
